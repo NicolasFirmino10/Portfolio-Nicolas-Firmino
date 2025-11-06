@@ -1,8 +1,8 @@
-# 🚀 Portfólio Profissional - Nicolas Firmino
+# Portfólio Profissional - Nicolas Firmino
 
 Um portfólio web moderno e responsivo desenvolvido para apresentar projetos, habilidades e experiências profissionais de forma elegante e interativa.
 
-## 📋 Sobre o Projeto
+## Sobre o Projeto
 
 Este portfólio foi desenvolvido com foco em:
 - **Design Responsivo**: Adaptável para desktop, tablet e mobile
@@ -10,7 +10,7 @@ Este portfólio foi desenvolvido com foco em:
 - **UX/UI Moderno**: Interface limpa e profissional
 - **Acessibilidade**: Seguindo boas práticas de desenvolvimento web
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **HTML5**: Estrutura semântica e acessível
 - **CSS3**: Estilização moderna com Flexbox e Grid
@@ -28,8 +28,8 @@ Este portfólio foi desenvolvido com foco em:
 
 
 **Nicolas Firmino**
-- 📧 Email: nicolasfirminodev@gmail.com
-- 💼 LinkedIn: [Nicolas Firmino](https://linkedin.com/in/nicolas-firmino)
-- 🐱 GitHub: [@NicolasFirmino10](https://github.com/NicolasFirmino10)
-- 📱 WhatsApp: [+55 85 99214-0821](https://wa.me/5585992140821)
+- Email: nicolasfirminodev@gmail.com
+- LinkedIn: [Nicolas Firmino](https://linkedin.com/in/nicolas-firmino)
+- GitHub: [@NicolasFirmino10](https://github.com/NicolasFirmino10)
+- WhatsApp: [+55 85 99214-0821](https://wa.me/5585992140821)
 
